@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+output/*.tsv
+output/*.txt
+.vscode/
