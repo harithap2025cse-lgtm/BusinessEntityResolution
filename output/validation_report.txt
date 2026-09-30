@@ -1,0 +1,18 @@
+Amazon ML Challenge 2026 — 10K Entity Resolution
+=================================================
+Row limit per source: 10000
+Train S1: 10000
+Train S2: 10000
+Train S3: 10000
+Test S1: 10000
+Test S2: 10000
+Test S3: 10000
+Training candidate pairs: 605638
+Validation candidate pairs: 120887
+Test candidate pairs: 618169
+Validation F0.5: 0.961500
+Selected threshold: 0.950000
+Validation candidate pair recall: 1.000000
+Validation candidate entity recall: 1.000000
+matching_results.tsv: output\matching_results.tsv
+candidate_pairs.tsv: output\candidate_pairs.tsv

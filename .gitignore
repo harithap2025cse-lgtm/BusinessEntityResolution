@@ -2,6 +2,5 @@
 __pycache__/
 *.pyc
 *.pyo
-output/*.tsv
-output/*.txt
 .vscode/
+dataset/
